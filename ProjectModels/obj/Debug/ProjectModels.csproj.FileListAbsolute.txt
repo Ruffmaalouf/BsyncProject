@@ -1,0 +1,6 @@
+C:\Users\r.maalouf\source\repos\ProjectModels\bin\Debug\ProjectModels.dll
+C:\Users\r.maalouf\source\repos\ProjectModels\bin\Debug\ProjectModels.pdb
+C:\Users\r.maalouf\source\repos\ProjectModels\obj\Debug\ProjectModels.csproj.AssemblyReference.cache
+C:\Users\r.maalouf\source\repos\ProjectModels\obj\Debug\ProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\r.maalouf\source\repos\ProjectModels\obj\Debug\ProjectModels.dll
+C:\Users\r.maalouf\source\repos\ProjectModels\obj\Debug\ProjectModels.pdb
