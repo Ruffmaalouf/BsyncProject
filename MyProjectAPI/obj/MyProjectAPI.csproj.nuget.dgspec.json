@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\r.maalouf\\source\\repos\\AccountService\\MyProjectAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\r.maalouf\\source\\repos\\AccountService\\MyProjectAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.maalouf\\source\\repos\\AccountService\\MyProjectAPI.csproj",
+        "projectName": "MyProjectAPI",
+        "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\AccountService\\MyProjectAPI.csproj",
+        "packagesPath": "C:\\Users\\r.maalouf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\r.maalouf\\source\\repos\\AccountService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r.maalouf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\r.maalouf\\source\\repos\\MyProjectBusinessRules\\MyProjectBusinessRules.csproj": {
+                "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\MyProjectBusinessRules\\MyProjectBusinessRules.csproj"
+              },
+              "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj": {
+                "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\r.maalouf\\source\\repos\\MyProjectBusinessRules\\MyProjectBusinessRules.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.maalouf\\source\\repos\\MyProjectBusinessRules\\MyProjectBusinessRules.csproj",
+        "projectName": "MyProjectBusinessRules",
+        "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\MyProjectBusinessRules\\MyProjectBusinessRules.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {
+              "C:\\Users\\r.maalouf\\source\\repos\\MyProjectDataAccess\\MyProjectDataAccess.csproj": {
+                "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\MyProjectDataAccess\\MyProjectDataAccess.csproj"
+              },
+              "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj": {
+                "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Users\\r.maalouf\\source\\repos\\MyProjectDataAccess\\MyProjectDataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.maalouf\\source\\repos\\MyProjectDataAccess\\MyProjectDataAccess.csproj",
+        "projectName": "MyProjectDataAccess",
+        "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\MyProjectDataAccess\\MyProjectDataAccess.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {
+              "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj": {
+                "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj",
+        "projectName": "ProjectModels",
+        "projectPath": "C:\\Users\\r.maalouf\\source\\repos\\ProjectModels\\ProjectModels.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    }
+  }
+}
