@@ -1,0 +1,13 @@
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\obj\Debug\MyProjectBusinessRules.csproj.AssemblyReference.cache
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\obj\Debug\MyProjectBusinessRules.csproj.CoreCompileInputs.cache
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\MyProjectBusinessRules.dll
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\MyProjectBusinessRules.pdb
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\MyProjectDataAccess.dll
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\ProjectModels.dll
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\Dapper.dll
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\MyProjectDataAccess.pdb
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\ProjectModels.pdb
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\bin\Debug\Dapper.xml
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\obj\Debug\MyProjectBusinessRules.csproj.CopyComplete
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\obj\Debug\MyProjectBusinessRules.dll
+C:\Users\r.maalouf\source\repos\MyProjectBusinessRules\obj\Debug\MyProjectBusinessRules.pdb
