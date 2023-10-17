@@ -1,0 +1,11 @@
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\bin\Debug\MyProjectDataAccess.dll
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\bin\Debug\MyProjectDataAccess.pdb
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\bin\Debug\Dapper.dll
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\bin\Debug\ProjectModels.dll
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\bin\Debug\ProjectModels.pdb
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\bin\Debug\Dapper.xml
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\obj\Debug\MyProjectDataAccess.csproj.AssemblyReference.cache
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\obj\Debug\MyProjectDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\obj\Debug\MyProjectDataAccess.csproj.CopyComplete
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\obj\Debug\MyProjectDataAccess.dll
+C:\Users\r.maalouf\source\repos\MyProjectDataAccess\obj\Debug\MyProjectDataAccess.pdb
